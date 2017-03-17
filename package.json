@@ -1,6 +1,9 @@
 {
   "name": "bloomingbeach54595",
   "version": "0.0.0",
+  "engines": {
+    "node": "6.9.5"
+  },
   "license": "MIT",
   "angular-cli": {},
   "scripts": {
